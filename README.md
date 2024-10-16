@@ -70,7 +70,7 @@ The application's code is structured as follows:
 
 ## Useful resources 
 
-Youtube- youtube.com/watch?v=zs1Nq2s_uy4&t=14s
+Youtube- (https://www.youtube.com/watch?v=gbAdFfSdtQ4)
 
 ## Credit
 
