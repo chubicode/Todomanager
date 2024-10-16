@@ -56,12 +56,21 @@ Open your browser and navigate to http://localhost:3000 to view TodoManager.
 
 ## React Hooks In Action 
 
-### Usestate 
+### UseState 
 useState is used extensively in this application to manage the state of the todo items. It allows us to store and update the list of todos, as well as manage individual task properties like the task description and completion status.
 
 ![useREF useState UseEffect](https://github.com/user-attachments/assets/9fae55b5-75e6-4743-b2e8-707eef35fe1a)
 
+### UseEffect
+useEffect handles side effects like saving the todo list to localStorage and fetching it on initial render. It ensures that the list is persistent even if the user refreshes the page.
 
+![UseEffect](https://github.com/user-attachments/assets/11499c36-2d2d-4716-b81e-968a88e73d71)
+
+###useRef
+useRef is used to create references to DOM elements without causing rerenders. In this app, it could be used to focus on the input field automatically when the user is adding a new todo.
+
+
+![useRef](https://github.com/user-attachments/assets/abadbc1b-57c4-4a1e-b098-dbccd7a4132e)
 
 ## Code Structure
 
