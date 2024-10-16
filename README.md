@@ -48,5 +48,30 @@ To run TodoManager locally, follow these steps:
 ## Usage
 
 Once installed, you can start the application by running:
-```
+``
   npm start
+
+
+
+## Code Structure
+
+The application's code is structured as follows:
+
+- **src/**: Contains all source code files.
+- **CSS/**:  Stylesheets for custom styling.
+- **TodoItems.js**: Component to display individual todo items.
+- **Todo.js**: Main TodoManager component integrating todos and user interaction.
+- **Index.js**: Entry point of the application.
+- **App.css**: Global styles for the application.
+
+
+## Continued development 
+- React
+
+## Useful resources 
+
+youtube.com/watch?v=zs1Nq2s_uy4&t=14s
+
+## Credit
+
+Github- https://github.com/chubicode/
