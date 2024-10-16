@@ -1,6 +1,5 @@
 # Todomanager
 
-# Weather App
 ## Table of Contents
 
 - [Description](#description)
@@ -51,4 +50,3 @@ To run TodoManager locally, follow these steps:
 Once installed, you can start the application by running:
 ```
   npm start
-
