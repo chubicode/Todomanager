@@ -66,7 +66,7 @@ useEffect handles side effects like saving the todo list to localStorage and fet
 
 ![UseEffect](https://github.com/user-attachments/assets/11499c36-2d2d-4716-b81e-968a88e73d71)
 
-###useRef
+### useRef
 useRef is used to create references to DOM elements without causing rerenders. In this app, it could be used to focus on the input field automatically when the user is adding a new todo.
 
 
