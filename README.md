@@ -46,34 +46,9 @@ To run TodoManager locally, follow these steps:
    ```
          npm install
 
-##Usage
-
+## Usage
 
 Once installed, you can start the application by running:
 ```
   npm start
 
-
-## Code Structure
-
-
-- **React**: A JavaScript library for building user interfaces.
-- **Javascript(ES6+)**: Modern JavaScript syntax for enhanced readability and functionality.
-- **HTML5 & CSS**: Basic markup and styling for the application.
-
-
-## Continued development 
-
-- Consuming APIs
-
-- CSS Grid
-
-- React
-
-## Useful resources 
-
-youtube.com/watch?v=zs1Nq2s_uy4&t=14s
-
-## Credit
-
-Github- https://github.com/chubicode/
