@@ -7,6 +7,7 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [React Hooks In Action](#React-Hooks-in-Action)
 - [Code Structure](#Code-structure)
 - [Continued development](#Continued-development)
 - [Resouces](#Resources)
@@ -50,6 +51,15 @@ To run TodoManager locally, follow these steps:
 Once installed, you can start the application by running:
 ``
   npm start
+
+Open your browser and navigate to http://localhost:3000 to view TodoManager.
+
+## React Hooks In Action 
+
+# Usestate 
+useState is used extensively in this application to manage the state of the todo items. It allows us to store and update the list of todos, as well as manage individual task properties like the task description and completion status.
+
+![useREF useState UseEffect](https://github.com/user-attachments/assets/9fae55b5-75e6-4743-b2e8-707eef35fe1a)
 
 
 
