@@ -74,6 +74,22 @@ useRef is used to create references to DOM elements without causing rerenders. I
 ![useRef](https://github.com/user-attachments/assets/abadbc1b-57c4-4a1e-b098-dbccd7a4132e)
 
 ## FormData and Promises
+``
+const formData = new FormData();
+formData.append("task", inputRef.current.value);
+
+const newTodo = {
+  no: count++,
+  text: formData.get("task"),  // Getting the input from FormData
+  display: ""
+};
+
+
+
+### FormData
+
+Although FormData is not currently implemented in the application, it could be used for handling form submissions, especially when managing multiple form fields dynamically.
+
 
 ## Code Structure
 
