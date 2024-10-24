@@ -73,6 +73,8 @@ useRef is used to create references to DOM elements without causing rerenders. I
 
 ![useRef](https://github.com/user-attachments/assets/abadbc1b-57c4-4a1e-b098-dbccd7a4132e)
 
+## FormData and Promises
+
 ## Code Structure
 
 The application's code is structured as follows:
