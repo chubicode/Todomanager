@@ -8,6 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [React Hooks In Action](#React-Hooks-in-Action)
+- [FormData and Promises](#ForData-and-Promises)
 - [Code Structure](#Code-structure)
 - [Continued development](#Continued-development)
 - [Resouces](#Resources)
