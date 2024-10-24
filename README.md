@@ -77,7 +77,7 @@ useRef is used to create references to DOM elements without causing rerenders. I
 
 ### FormData
 
-Although FormData is not currently implemented in the application, it could be used for handling form submissions, especially when managing multiple form fields dynamically.
+Form Data is used for handling form submissions, especially when managing multiple form fields dynamically.
 
 ![fORM DATA](https://github.com/user-attachments/assets/addba5de-7779-47df-b37a-174594f8e4c7)
 
